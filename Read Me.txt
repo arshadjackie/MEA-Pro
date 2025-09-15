@@ -1,0 +1,9 @@
+Steps to be followed for new users,,,,
+
+1. Install ME ANALYZER PRO.msi file
+2. Run MustRun App using Run as Administrator
+3. Launch ME ANALYZER PRO Tool and Enjoy...!!
+
+=========================================================
+Regards,
+TEAM IAS
