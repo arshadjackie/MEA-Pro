@@ -17,10 +17,9 @@ Comprehensive analysis for the latest Intel Management Engine firmware.
 ---
 
 ## 📋 Description
-**ME ANALYZER PRO v3.0** is a state-of-the-art analysis suite designed for Intel Management Engine (ME) firmware. Reimagined with a **Premium Cyberpunk UI**, this version brings advanced multi-layered glassmorphism, neon glowing effects, and a highly interactive experience to firmware research.
+**ME ANALYZER PRO v3.0** is a state-of-the-art analysis suite designed for Intel Management Engine (ME) firmware. Reimagined with a **Premium UI**, this version brings advanced and highly interactive experience to firmware research.
 
 ### ✨ Key Features
-- 💎 **Premium UI**: Best-in-class aesthetic with a modern, responsive design.
 - ⚡ **High Performance**: Optimized parallel asynchronous processing.
 - 🔍 **Deep Analysis**: Supports Intel CSME versions up to **CSME 21**.
 - 🛠️ **Robust Tooling**: Includes CLI and GUI versions for flexible workflows.
@@ -51,8 +50,8 @@ Comprehensive analysis for the latest Intel Management Engine firmware.
 ```text
 MEA-Pro/
 ├── ME ANALYZER PRO.msi           # Main Suite Installer
-├── MustRun (Run as Admin).exe    # System Initialization Tool
-├── MeaPro30.png                  # UI Preview
+├── MustRun.bat                   # System Initialization Tool
+├── MeaPro30.png                  # Logo
 ├── Read Me.txt                   # Quick Instructions
 └── README.md                     # Documentation
 ```
