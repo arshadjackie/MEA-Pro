@@ -91,13 +91,91 @@ MEA-Pro/
 
 ---
 
-## ⚠️ Important Notes
+## 👨‍💻 Meet Our Developers
 
-*   **Standalone**: MEA PRO is fully self-contained — no external tools or initialization scripts are needed.
-*   **Environment**: Specifically optimized for Windows environments.
-*   **Security**: Developed with security research standards in mind.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔧 SKB</h3>
+      <b>Lead Developer</b>
+      <br><br>
+      Passionate about BIOS development and system optimization. Leading our technical innovations and development team.
+      <br><br>
+      <a href="https://t.me/skbasirsona"><img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="SKB Telegram"></a>
+      <a href="https://skbworld.co"><img src="https://img.shields.io/badge/Website-skbworld.co-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="SKB Website"></a>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚡ Arshad Jackie</h3>
+      <b>Senior Developer</b>
+      <br><br>
+      Expert in system architecture and BIOS modification. Dedicated to creating robust and efficient solutions.
+      <br><br>
+      <a href="https://t.me/arshadjackie"><img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Arshad Telegram"></a>
+      <a href="https://refixguru.com"><img src="https://img.shields.io/badge/Website-refixguru.com-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Arshad Website"></a>
+    </td>
+  </tr>
+</table>
 
 ---
+
+## 🎯 Our Mission
+
+> At **IAS VIP TOOLS**, we're dedicated to providing cutting-edge BIOS modification tools that empower IT professionals and system administrators to optimize their systems with **confidence and precision**. Our mission is to make advanced BIOS management accessible, secure, and efficient for everyone.
+
+---
+
+## 💡 Why Choose IAS VIP TOOLS?
+
+| | Feature | Description |
+|---|---|---|
+| 🛡️ | **Professional Tools** | Industry-leading BIOS modification tools designed for professionals, with advanced features and robust security measures. |
+| ⚡ | **Fast & Efficient** | Optimized performance and streamlined workflows to help you accomplish BIOS modifications quickly and efficiently. |
+| 🎧 | **Expert Support** | Dedicated technical support team ready to assist you with any questions or challenges you may encounter. |
+
+---
+
+## 🌟 Our Values
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>🔒</h3>
+      <b>Security First</b>
+      <br>
+      We prioritize the security and integrity of your systems in every tool we develop.
+    </td>
+    <td align="center" width="25%">
+      <h3>🚀</h3>
+      <b>Innovation</b>
+      <br>
+      Constantly evolving and improving our tools to meet the changing needs of our users.
+    </td>
+    <td align="center" width="25%">
+      <h3>👥</h3>
+      <b>User-Centric</b>
+      <br>
+      We build our tools with our users in mind, focusing on usability and practical solutions.
+    </td>
+    <td align="center" width="25%">
+      <h3>✅</h3>
+      <b>Reliability</b>
+      <br>
+      Committed to providing stable, reliable tools you can depend on for critical operations.
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <b>Ready to Get Started?</b>
+  <br>
+  Join thousands of professionals who trust <b>IAS VIP TOOLS</b> for their BIOS modification needs.
+  <br><br>
+  <a href="https://iasviptools.com"><img src="https://img.shields.io/badge/🌐_Visit_iasviptools.com-1a1a2e?style=for-the-badge" alt="Visit Website"></a>
+</div>
+
+
 
 ## 🤝 Support & Contact
 
