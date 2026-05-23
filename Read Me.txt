@@ -1,1 +1,1 @@
-Before running MEA PRO or MEA Pro CLI, first run MustRun.bat (BATCH FILE) as Administrator.
+MEA PRO is standalone. Simply install via ME ANALYZER PRO.msi and launch from your desktop.

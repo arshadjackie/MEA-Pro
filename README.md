@@ -5,7 +5,7 @@
   <br>
   <h3>🚀 The Ultimate Firmware Analysis Tool</h3>
   <p><b>Developed By Team IAS</b></p>
-  <p><i>Best-in-Class Premium UI | High-Performance Engine</i></p>
+  <p><i>Standalone | Premium UI | High-Performance Engine</i></p>
 </div>
 
 ---
@@ -17,12 +17,13 @@ Comprehensive analysis for the latest Intel Management Engine firmware.
 ---
 
 ## 📋 Description
-**ME ANALYZER PRO v3.0** is a state-of-the-art analysis suite designed for Intel Management Engine (ME) firmware. Reimagined with a **Premium UI**, this version brings advanced and highly interactive experience to firmware research.
+**ME ANALYZER PRO v3.0** is a standalone, state-of-the-art analysis suite designed for Intel Management Engine (ME) firmware. Reimagined with a **Premium UI**, this version brings an advanced and highly interactive experience to firmware research.
 
 ### ✨ Key Features
 - ⚡ **High Performance**: Optimized parallel asynchronous processing.
 - 🔍 **Deep Analysis**: Supports Intel CSME versions up to **CSME 21**.
 - 🛠️ **Robust Tooling**: Includes CLI and GUI versions for flexible workflows.
+- 📦 **Standalone**: No additional dependencies or initialization scripts required.
 
 ---
 
@@ -32,15 +33,12 @@ Comprehensive analysis for the latest Intel Management Engine firmware.
 *   **OS**: Windows 10/11 (x64)
 *   **Rights**: Administrator Privileges Required
 
-### 🛠️ Installation Steps
+### 🛠️ Installation
 
 1.  **Install the Suite**
-    Execute `ME ANALYZER PRO.msi` to install the main application.
+    Execute `ME ANALYZER PRO.msi` to install the application.
 
-2.  **Initialize Components**
-    Run the `MustRun` application using **"Run as Administrator"** to set up necessary system permissions.
-
-3.  **Launch**
+2.  **Launch**
     Open **ME ANALYZER PRO** from your desktop and experience the future of firmware analysis!
 
 ---
@@ -49,10 +47,9 @@ Comprehensive analysis for the latest Intel Management Engine firmware.
 
 ```text
 MEA-Pro/
-├── ME ANALYZER PRO.msi           # Main Suite Installer
-├── MustRun.bat                   # System Initialization Tool
+├── ME ANALYZER PRO.msi           # Standalone Suite Installer
+├── MEA PRO.zip                   # Portable Archive
 ├── MeaPro30.png                  # Logo
-├── Read Me.txt                   # Quick Instructions
 └── README.md                     # Documentation
 ```
 
@@ -60,7 +57,7 @@ MEA-Pro/
 
 ## ⚠️ Important Notes
 
-*   **Permissions**: The `MustRun` component is CRITICAL and must be run as Admin.
+*   **Standalone**: MEA PRO is fully self-contained — no external tools or initialization scripts are needed.
 *   **Environment**: Specifically optimized for Windows environments.
 *   **Security**: Developed with security research standards in mind.
 
@@ -72,5 +69,5 @@ For technical support, licensing, and inquiries, please reach out to:
 
 ---
 <div align="center">
-  <sub>Last updated: 2026-05-03 | © 2026 Team IAS</sub>
+  <sub>Last updated: 2026-05-23 | © 2026 Team IAS</sub>
 </div>
