@@ -52,7 +52,12 @@ Comprehensive analysis for the latest Intel Management Engine firmware.
 ### 🖥️ Full Suite Overview
 <img src="features/mea4.png" alt="Full Suite View" width="800">
 <br>
-<i>Complete analysis workflow — main GUI + ME Info panel running side by side for maximum productivity.</i>
+<i>Complete analysis workflow — main GUI + ME Info panel running side by side for maximum productivity.</i><br><br>
+
+### 🖥️ CSME 13 Quick Scan
+<img src="features/mea5.png" alt="Full Suite View" width="800">
+<br>
+<i>Complete analysis workflow for Older CSME— main GUI + ME Info panel running side by side for maximum productivity.</i>
 
 </div>
 
