@@ -27,11 +27,47 @@ Comprehensive analysis for the latest Intel Management Engine firmware.
 
 ---
 
+## 🎁 Free Trial & Pricing
+
+<div align="center">
+
+### 🆓 Try MEA PRO Free for 15 Days!
+
+Experience the full power of ME Analyzer PRO — **no credit card required**.
+
+Your trial is tied to a **single PC** so you can evaluate every feature with confidence.
+
+</div>
+
+| | **Trial** | **Licensed** |
+|---|---|---|
+| ⏳ Duration | **15 Days** | **Unlimited** |
+| 🖥️ Activation | Single PC | Per License |
+| 🔓 Features | Full Access | Full Access |
+| 🛡️ Updates | ✅ Included | ✅ Included |
+
+<div align="center">
+
+**After your trial ends, purchase a license to continue using MEA PRO.**
+
+<br>
+
+<a href="https://iasviptools.com/mea-pro#pricing">
+  <img src="https://img.shields.io/badge/💳_View_Pricing_&_Buy_License-0078D4?style=for-the-badge&logoColor=white" alt="View Pricing">
+</a>
+
+<br><br>
+
+🔗 **[iasviptools.com/mea-pro#pricing](https://iasviptools.com/mea-pro#pricing)**
+
+</div>
+
+
+
 ## 🚀 Quick Start
 
 ### 📋 Prerequisites
 *   **OS**: Windows 10/11 (x64)
-*   **Rights**: Administrator Privileges Required
 
 ### 🛠️ Installation
 
