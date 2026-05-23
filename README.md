@@ -96,6 +96,8 @@ MEA-Pro/
 <table>
   <tr>
     <td align="center" width="50%">
+      <br>
+      <img src="https://iasviptools.com/static/img/skb.jpg" alt="SKB" width="150" style="border-radius: 50%;">
       <h3>🔧 SKB</h3>
       <b>Lead Developer</b>
       <br><br>
@@ -105,6 +107,8 @@ MEA-Pro/
       <a href="https://skbworld.co"><img src="https://img.shields.io/badge/Website-skbworld.co-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="SKB Website"></a>
     </td>
     <td align="center" width="50%">
+      <br>
+      <img src="https://iasviptools.com/static/img/gabbar.jpg" alt="Arshad Jackie" width="150" style="border-radius: 50%;">
       <h3>⚡ Arshad Jackie</h3>
       <b>Senior Developer</b>
       <br><br>
