@@ -99,7 +99,7 @@ MEA-Pro/
       <br>
       <img src="https://iasviptools.com/static/img/skb.jpg" alt="SKB" width="150" style="border-radius: 50%;">
       <h3>🔧 SKB</h3>
-      <b>Lead Developer</b>
+      <b>BIOS MAGICIAN</b>
       <br><br>
       Passionate about BIOS development and system optimization. Leading our technical innovations and development team.
       <br><br>
@@ -110,7 +110,7 @@ MEA-Pro/
       <br>
       <img src="https://iasviptools.com/static/img/gabbar.jpg" alt="Arshad Jackie" width="150" style="border-radius: 50%;">
       <h3>⚡ Arshad Jackie</h3>
-      <b>Senior Developer</b>
+      <b>BIOS KING</b>
       <br><br>
       Expert in system architecture and BIOS modification. Dedicated to creating robust and efficient solutions.
       <br><br>
