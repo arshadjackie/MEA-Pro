@@ -100,8 +100,16 @@ MEA-Pro/
 ---
 
 ## 🤝 Support & Contact
-For technical support, licensing, and inquiries, please reach out to:
-**TEAM IAS**
+
+For technical support, licensing, and inquiries — reach out to our admins on **Telegram**:
+
+<div align="center">
+
+<a href="https://t.me/arshadjackie"><img src="https://img.shields.io/badge/Telegram-@arshadjackie-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @arshadjackie"></a>
+
+<a href="https://t.me/skbasirsona"><img src="https://img.shields.io/badge/Telegram-@skbasirsona-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @skbasirsona"></a>
+
+</div>
 
 ---
 <div align="center">
