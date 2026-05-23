@@ -14,6 +14,10 @@
 **Supports up to Intel CSME 21**
 Comprehensive analysis for the latest Intel Management Engine firmware.
 
+*   🆓 **CSME 11 - CSME 16**: **100% Free** (No activation, no payment, no strings attached).
+*   🔑 **CSME 18 - CSME 21**: Requires active license (**Yearly** or **Lifetime**).
+*   🎁 **15-Day Free Trial**: Available for CSME 18+ to test all premium features!
+
 ---
 
 ## 📋 Description
@@ -63,28 +67,29 @@ Comprehensive analysis for the latest Intel Management Engine firmware.
 
 ---
 
-## 🎁 Free Trial & Pricing
+## 🎁 License Options & Free Trial
 
 <div align="center">
 
-### 🆓 Try MEA PRO Free for 15 Days!
+### 💡 Flexibly Structured Pricing for Everyone
 
-Experience the full power of ME Analyzer PRO — **no credit card required**.
+MEA PRO is divided into two distinct version groups:
 
-Your trial is tied to a **single PC** so you can evaluate every feature with confidence.
+| Version Range | License Type | Cost / Plan | Details |
+| :--- | :---: | :---: | :--- |
+| **🆓 CSME 11 to CSME 16** | **Community** | **100% FREE** | Fully unlocked, no activation, no account needed |
+| **⚡ CSME 18 to CSME 21** | **Premium** | **15-Day Trial** | Single-PC free trial to explore all features |
+| **⚡ CSME 18 to CSME 21** | **Premium** | **Yearly / Lifetime** | Premium licensing required after trial ends |
 
-</div>
+<br>
 
-| | **Trial** | **Licensed** |
-|---|---|---|
-| ⏳ Duration | **15 Days** | **Unlimited** |
-| 🖥️ Activation | Single PC | Per License |
-| 🔓 Features | Full Access | Full Access |
-| 🛡️ Updates | ✅ Included | ✅ Included |
+### 🆓 Claim Your 15-Day Free Trial (CSME 18+)
 
-<div align="center">
+No credit card required! Simply launch the **ME Analyzer Pro GUI** on your PC to claim your 15-day free trial. Your trial is bound to a **single PC** so you can evaluate all premium features with confidence.
 
-**After your trial ends, purchase a license to continue using MEA PRO.**
+<br>
+
+**After your trial ends, purchase a Yearly or Lifetime license to continue analyzing CSME 18+:**
 
 <br>
 
