@@ -27,6 +27,37 @@ Comprehensive analysis for the latest Intel Management Engine firmware.
 
 ---
 
+## 🖼️ Features Showcase
+
+<div align="center">
+
+### ⚡ CSME 21 Firmware Analysis
+<img src="features/mea1.png" alt="CSME 21 Analysis" width="700">
+<br>
+<i>Analyze the latest Intel CSME 21 firmware — version, state, SKU, and chipset detected instantly.</i>
+<br><br>
+
+### 📊 Detailed ME Info Report
+<img src="features/mea2.png" alt="ME Info Details" width="500">
+<br>
+<i>Comprehensive firmware metadata — security versions, OEM config, production status, and MEA database matching.</i>
+<br><br>
+
+### 🔍 CSME 18 Quick Scan
+<img src="features/mea3.png" alt="CSME 18 Analysis" width="700">
+<br>
+<i>Blazing-fast analysis with results in under 1 second — supports CSME 18 through CSME 21.</i>
+<br><br>
+
+### 🖥️ Full Suite Overview
+<img src="features/mea4.png" alt="Full Suite View" width="800">
+<br>
+<i>Complete analysis workflow — main GUI + ME Info panel running side by side for maximum productivity.</i>
+
+</div>
+
+---
+
 ## 🎁 Free Trial & Pricing
 
 <div align="center">
